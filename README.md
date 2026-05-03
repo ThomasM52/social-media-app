@@ -6,6 +6,12 @@ Built with React (frontend) and a backend API.
 
 The application supports posts, comments, likes, and a simple friend system.
 
+## Screenshot
+
+_Main feed with posts, comments and friend system_
+
+![Social Media App](screenshot.png)
+
 ---
 
 ## Setup
